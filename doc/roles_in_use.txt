@@ -1,0 +1,9 @@
+kuubectl role
+arn:aws:iam::725558264891:role/EKSkubectlROLE
+
+codebuild service role  id
+ekscicdIAMstack-CodeBuildServiceRole-8K85CSWXBHJC 
+
+pipe service role
+ekscicdIAMstack-CodePipelineServiceRole-10TVACKI237D9
+
